@@ -13,6 +13,6 @@ inputs:
     required: true
     default: ${{github.actor}}@localhost
   name:
-  description: the users name
-  required: true
-  default: ${{github.actor}}
+    description: the users name
+    required: true
+    default: ${{github.actor}}
