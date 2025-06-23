@@ -1,7 +1,7 @@
 name: "Podcast Generator"
 author: "ray villalobos"
 description: "Generating a feed for podacst from a yaml file"
-rune:
+runs:
   using: "docker"
   image: "Dockerfile"
 branding:
